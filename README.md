@@ -1,6 +1,6 @@
 # Jogo da Adivinhação
 
-![preview](./.github/preview.png)
+![preview](./.github/foto-preview.png)
 
 > Projeto Jogo da Adivinhação
 
