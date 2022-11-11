@@ -1,10 +1,10 @@
-# NLW Copa do Mundo
+# Jogo da Adivinhação
 
 ![preview](./.github/preview.png)
 
-> Projeto Card Copa
+> Projeto Jogo da Adivinhação
 
-Projeto construído na plataforma do YouTube
+Exercício construído no curso da Explorer da plataforma Rocketseat. Esse exercício se basea em um jogo que você tenta adivinha qual número que a máquina gerou automaticamente, e acertando, ele indica quantas vezes que você tentou.
 
 [🔗 Clique aqui para acessar](https://kyochi7.github.io/nlw-explorer)
 
@@ -12,7 +12,7 @@ Projeto construído na plataforma do YouTube
 
 - HTML
 - CSS
-- JavaScript
+- JavaScript(DOM)
 - Git e Github
 
 ## 📧 Contato
