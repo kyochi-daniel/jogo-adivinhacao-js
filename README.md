@@ -1,7 +1,7 @@
 # Jogo da Adivinhação
 
 ![preview](./.github/previe.png)
-![preview](./.github/preview1.png)
+![preview](./.github/preview.png)
 
 > Projeto Jogo da Adivinhação
 
